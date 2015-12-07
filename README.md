@@ -1,3 +1,2 @@
 # Darepro1
-My first project, 
-HMMMMMMMMMMMMMMMMMMMMMMMMMMMMI
+This is another test
